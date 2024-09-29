@@ -48,7 +48,7 @@ Certifique-se de ter as seguintes ferramentas instaladas em seu ambiente:
 
 1. Clone o repositório do projeto:
    ```bash
-   git clone https://github.com/seu-usuario/petstore-api-tests.git
+   git clone https://github.com/jarbashenrique/base2-interview-api.git
    ```
 
 2. Navegue até o diretório do projeto:
@@ -79,21 +79,13 @@ Os resultados dos testes serão exibidos diretamente no console após a execuç�
 /target/surefire-reports
 ```
 
-## Contribuindo
-
-Se você deseja contribuir com melhorias ou novos casos de teste, siga os passos abaixo:
-
-1. Faça um fork do repositório.
-2. Crie uma nova branch para suas alterações.
-3. Envie um pull request com a descrição das suas mudanças.
-
 ## Licença
 
-Este projeto é licenciado sob a [MIT License](https://opensource.org/licenses/MIT) - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto é licenciado sob a [MIT License](https://opensource.org/licenses/MIT).
 
 ## Contato
 
-Se tiver dúvidas ou sugestões, entre em contato com o desenvolvedor através do [jarbas_96@hotmail.com](mailto:jarbas_96@hotmail.com).
+Se tiver dúvidas ou sugestões, entre em contato [jarbas_96@hotmail.com](mailto:jarbas_96@hotmail.com).
 
 ---
 
