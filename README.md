@@ -51,10 +51,7 @@ Certifique-se de ter as seguintes ferramentas instaladas em seu ambiente:
    git clone https://github.com/jarbashenrique/base2-interview-api.git
    ```
 
-2. Navegue até o diretório do projeto:
-   ```bash
-   cd petstore-api-tests
-   ```
+2. Navegue até a raiz
 
 3. Para garantir que todas as dependências estão atualizadas, execute:
    ```bash
